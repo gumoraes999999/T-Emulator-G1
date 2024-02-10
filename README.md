@@ -4,4 +4,4 @@ The first HTC Dream emulator ever!
 Goals for a HTC Dream emulator:
 
 - [x] Find the hardware specifications
-- [] Design the Emulation Architecture
+- [ ] Design the Emulation Architecture
