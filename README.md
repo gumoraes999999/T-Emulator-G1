@@ -10,3 +10,4 @@ Goals for a HTC Dream emulator:
 - [ ] Customization
 - [ ] Compatibility
 - [ ] Documentation
+- [x] Open Source
